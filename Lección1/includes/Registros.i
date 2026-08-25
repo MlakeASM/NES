@@ -1,0 +1,65 @@
+;REGISTROS PPU
+;----------------------------
+;----------------------------
+PPUCTRL			= $2000
+PPUMASK			= $2001
+PPUSTATUS		= $2002
+OAMADDR			= $2003
+OAMDATA			= $2004
+PPUSCROLL		= $2005
+PPUADDR			= $2006
+PPUDATA			= $2007
+OAMDMA			= $4014
+SQ1VOL  		= $4000
+SQ1SWEEP 		= $4001
+SQ1LO   		= $4002
+SQ1HI    		= $4003
+SQ2VOL   		= $4004
+SQ2SWEEP 		= $4005
+SQ2LO 			= $4006
+SQ2HI 			= $4007
+TRILINEAR 		= $4008
+TRILO       	= $400A
+TRIHI     		= $400B
+NOISEVOL     	= $400C
+NOISELO     	= $400E
+NOISEHI   		= $400F
+DMCFREQ   		= $4010
+DMCRAW   		= $4011
+DMCSTART  		= $4012
+DMCLEN       	= $4013
+APUSTATUS 		= $4015
+JOY1            = $4016
+JOY2       		= $4017
+APUFRAME   		= $4017
+;----------------------------
+PPU_CTRL		= $2000
+PPU_MASK		= $2001
+PPU_STATUS		= $2002
+OAM_ADDRESS		= $2003
+OAM_DATA		= $2004
+PPU_SCROLL		= $2005
+PPU_ADDRESS		= $2006
+PPU_DATA		= $2007
+OAM_DMA			= $4014
+SQ1_VOL  		= $4000
+SQ1_SWEEP 		= $4001
+SQ1_LO   		= $4002
+SQ1_HI    		= $4003
+SQ2_VOL   		= $4004
+SQ2_SWEEP 		= $4005
+SQ2_LO 			= $4006
+SQ2_HI 			= $4007
+TRI_LINEAR 		= $4008
+TRI_LO       	= $400A
+TRI_HI     		= $400B
+NOISE_VOL  		= $400C
+NOISE_LO     	= $400E
+NOISE_HI   		= $400F
+DMC_FREQ   		= $4010
+DMC_RAW   		= $4011
+DMC_START  		= $4012
+DMC_LEN       	= $4013
+APU_STATUS 		= $4015
+JOY2_FRAME 		= $4017
+;----------------------------  
