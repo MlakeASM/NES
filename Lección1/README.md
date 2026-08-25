@@ -105,5 +105,8 @@ CARACTERES GFX
 <img src="https://github.com/MlakeASM/NES/blob/main/Lecci%C3%B3n1/images/codigo.png?raw=true">
 
 
+Este programa no hace nada, simplemente es un esbozo para empezar a armar un programa.
+
+
 
 
