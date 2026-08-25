@@ -102,5 +102,8 @@ VECTOR TABLE (.org $BFFA)
 CARACTERES GFX
 
 
+<img src="https://github.com/MlakeASM/NES/blob/main/Lecci%C3%B3n1/images/codigo.png?raw=true">
+
+
 
 
