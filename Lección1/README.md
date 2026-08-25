@@ -78,7 +78,7 @@ Con esto queda completo nuestra PRG-ROM
 
 # CHR-ROM
 
-Esta es mas fácil, simplemente tenemos que meter nuestras imagenes.
+Esta es mas fácil, simplemente tenemos que meter nuestros gráficos.
 
 
 <img src="https://github.com/MlakeASM/NES/blob/main/Lecci%C3%B3n1/images/chr.png?raw=true">
